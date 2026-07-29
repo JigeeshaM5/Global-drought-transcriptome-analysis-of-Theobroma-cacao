@@ -1,4 +1,4 @@
-# 08_Generate_Master_Spatial_Table.R
+# 08_Spatial_Table.R
 suppressPackageStartupMessages({
   library(dplyr)
   library(tidyr)
