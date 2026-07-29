@@ -1,4 +1,4 @@
-# 06_High_Impact_Volcanos_Clean.R
+# 06_Visualize_Volcanos.R
 suppressPackageStartupMessages({
   library(dplyr)
   library(stringr)
@@ -6,7 +6,7 @@ suppressPackageStartupMessages({
 })
 
 cat("======================================================================\n")
-cat("GENERATING PRISTINE CLEAN UNIFORM VOLCANO PLOTS (NO LABELS)\n")
+cat("GENERATING VOLCANO PLOTS (NO LABELS)\n")
 cat("======================================================================\n\n")
 
 LFC_THRESHOLD <- 1.5
