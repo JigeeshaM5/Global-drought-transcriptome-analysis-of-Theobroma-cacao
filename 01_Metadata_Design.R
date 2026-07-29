@@ -1,4 +1,4 @@
-# 01_Rebuild_Matrix_Baseline.R
+# 01_Metadata_Design.R
 suppressPackageStartupMessages({
   library(openxlsx)
   library(dplyr)
@@ -8,7 +8,7 @@ suppressPackageStartupMessages({
 })
 
 cat("======================================================================\n")
-cat("CLEAN-ROOM BASELINE: RECONSTRUCTING COHORT METADATA & PCA PATHS\n")
+cat("BASELINE: RECONSTRUCTING COHORT METADATA & PCA PATHS\n")
 cat("======================================================================\n\n")
 
 file_path <- "Drought fractional counts.xlsx"
