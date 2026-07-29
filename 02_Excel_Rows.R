@@ -1,4 +1,4 @@
-# 02_Probe_Excel_Rows.R
+# 02_Excel_Rows.R
 library(openxlsx)
 
 file_path <- "Drought fractional counts.xlsx"
