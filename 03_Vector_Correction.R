@@ -7,7 +7,7 @@ suppressPackageStartupMessages({
 })
 
 cat("======================================================================\n")
-cat("CLEAN-ROOM ROBUST PIPELINE: AUTOMATED ALIGNMENT & VECTOR COERCION\n")
+cat("ALIGNMENT & VECTOR COERCION\n")
 cat("======================================================================\n\n")
 
 file_path <- "Drought fractional counts.xlsx"
